@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently learning Data Analysis and working on projects that eases business decisions.
+I'm currently learning Data Analysis
+Working on projects that eases business decisions.
+Will update about the projects shortly.
 
 
 ## 🌐 Socials:
